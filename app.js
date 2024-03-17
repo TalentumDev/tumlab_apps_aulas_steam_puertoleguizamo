@@ -116,7 +116,7 @@ const addApps = [
         cover: "./img/mediacms/cover_mediacms.svg",
         description:
           "Sistema de gestión de contenido desarrollado para ver y compartir medios audiovisuales pedagógicos enfocados en las áreas de Álgebra, Física, Geometría y Matemáticas.",
-        url: "http://tumlab.local:8082",
+        url: "http://tumlab.local:8085",
       },
       {
         order: 3,
